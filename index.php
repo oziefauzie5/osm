@@ -227,7 +227,7 @@
                 <div class="icon-box">
                   <!-- <i class="bi bi-clipboard-pulse"></i> -->
                   <h3>Misi</h3>
-                  <p>Menyediakan layanan internet yang berkualitas dengan biaya terjangkau disemua segmen guna meningkatkan nilai Perusahaan</p>
+                  <p>Menghubungkan area yang belum terhubung dengan koneksi internet yang berkualitas Meningkatkan sistem edukasi melalui teknologi informasi Memberdayakan perusahaan dan komunitas melalui solusi berbasis internet</p>
                 </div>
               </div> <!-- End Icon Box -->
 
