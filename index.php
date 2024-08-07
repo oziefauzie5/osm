@@ -15,10 +15,8 @@
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-    rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -97,7 +95,7 @@
           </div>
 
           <div class="col-lg-6  d-flex flex-column justify-content-center" data-aos="fade-in">
-            <h1>Nikmati internet cepat dan stabil bersama <span>  OVALL FIBER</span></h1>
+            <h1>Nikmati internet cepat dan stabil bersama <span> OVALL FIBER</span></h1>
             <p>Solusi Internet Cepat Dengan Layanan Tepat</p>
             <div class="d-flex">
               <a href="#pricing" class="btn-get-started">Langganan</a>
@@ -110,8 +108,7 @@
         </div>
       </div>
 
-      <svg class="hero-waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-        viewBox="0 24 150 28 " preserveAspectRatio="none">
+      <svg class="hero-waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
         <defs>
           <path id="wave-path" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"></path>
         </defs>
@@ -146,7 +143,7 @@
               <h3 class="text-center">PAKET 10 Mbps</h3>
               <!-- <p class="descption">Ullam mollitia quasi nobis soluta in voluptatum et sint palora dex strater</p> -->
               <h4><sup>Rp</sup>180.000<span> / bulan</span></h4>
-              
+
               <ul>
                 <li><i class="bi bi-check"></i> <span>Speed Up To 10 Mbps</span></li>
                 <li><i class="bi bi-check"></i> <span class="text-danger">Gratis &nbsp;</span><span> Fiber Modem</span></li>
@@ -163,7 +160,7 @@
           <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="pricing-item featured">
               <p class="popular">Popular</p>
-              <h3 >PAKET 15 Mbps</h3>
+              <h3>PAKET 15 Mbps</h3>
               <h4 class="text-warning"><sup class="text-warning">Rp</sup>199.000<span> / bulan</span></h4>
               <ul>
                 <li><i class="bi bi-check"></i> <span>Speed Up To 15 Mbps</span></li>
@@ -182,7 +179,7 @@
             <div class="pricing-item">
               <h3 class="text-center">PAKET 30 Mbps</h3>
               <h4><sup>Rp</sup>299.000<span> / bulan</span></h4>
-              
+
               <ul>
                 <li><i class="bi bi-check"></i> <span>Speed Up To 30 Mbps</span></li>
                 <li><i class="bi bi-check"></i> <span class="text-danger">Gratis &nbsp;</span><span> Fiber Modem</span></li>
@@ -259,7 +256,7 @@
 
     </section><!-- /About Section -->
 
-   
+
 
 
 
@@ -625,7 +622,7 @@
               </div>
             </div> -->
 
-            <!-- <div class="swiper-slide">
+    <!-- <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
                 <h3>Sara Wilsson</h3>
@@ -707,7 +704,7 @@
 
     </section> -->
 
-  
+
     <!-- <section id="team" class="team section">
 
 
@@ -774,7 +771,7 @@
 
     </section> -->
 
-    
+
 
 
     <!-- <section id="faq" class="faq section light-background">
@@ -976,10 +973,10 @@
           </form> -->
           <div class="row">
             <div class="col-12">
-              <a href="https://wa.me/+6281346356155" target="_blank"><button class="btn btn-success btn-block"><i class="fa fa-whatsapp"></i> KONSULTASI WA-RICKI</button></a> 
+              <a href="https://wa.me/+6281346356155" target="_blank"><button class="btn btn-success btn-block"><i class="fa fa-whatsapp"></i> KONSULTASI WA-RICKI</button></a>
             </div>
             <div class="col-12 mt-3">
-              <a href="https://wa.me/+628989432764" target="_blank"><button class="btn btn-success btn-block"><i class="fa fa-whatsapp"></i> KONSULTASI WA-ADI</button></a> 
+              <a href="https://wa.me/+628989432764" target="_blank"><button class="btn btn-success btn-block"><i class="fa fa-whatsapp"></i> KONSULTASI WA-ADI</button></a>
             </div>
           </div>
 
@@ -1003,8 +1000,7 @@
   </footer>
 
   <!-- Scroll Top -->
-  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
-      class="bi bi-arrow-up-short"></i></a>
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Preloader -->
   <div id="preloader"></div>
