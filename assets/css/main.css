@@ -19,6 +19,7 @@
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root { 
+  /* --background-color: #ffffff;  */
   --background-color: #ffffff; /* Background color for the entire website, including individual sections */
   --default-color: #444444; /* Default color used for the majority of the text content across the entire website */
   --heading-color: #040677; /* Color for headings, subheadings and title throughout the website */
@@ -29,7 +30,8 @@
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
 :root {
-  --nav-color: #ffffff;  /* The default color of the main navmenu links */
+  /* --nav-color: #ffffff;  */
+  --nav-color: #040677;  /* The default color of the main navmenu links */
   --nav-hover-color: #1acc8d; /* Applied to main navmenu links when they are hovered over or active */
   --nav-mobile-background-color: #ffffff; /* Used as the background color for mobile navigation menu */
   --nav-dropdown-background-color: #ffffff; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
@@ -45,7 +47,8 @@
 }
 
 .dark-background {
-  --background-color: #00678b;
+  /* --background-color: #00678b; */
+  --background-color: #048bff;
   /* --background-color: #08005e; */
   --default-color: #ffffff;
   --heading-color: #ffffff;
@@ -144,12 +147,12 @@ h6 {
 # Global Header
 --------------------------------------------------------------*/
 .header {
-  --background-color: rgba(255, 255, 255, 0);
+  --background-color: rgb(255, 255, 255);
   --default-color: #ffffff;
   --heading-color: #ffffff;
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 20px 0;
+  padding: 5px 0;
   transition: all 0.5s;
   z-index: 997;
 }
@@ -177,7 +180,8 @@ h6 {
 /* Global Header on Scroll
 ------------------------------*/
 .scrolled .header {
-  --background-color: #00678b;
+  --background-color: #ffffff;
+  /* --background-color: #00678b; */
   /* --background-color: #10058c; */
 }
 
@@ -717,8 +721,8 @@ h6 {
 }
 
 .page-title nav ol li+li::before {
-  content: "/";
-  display: inline-block;
+  content: ">";
+  /* display: inline-block; */
   padding-right: 10px;
   color: color-mix(in srgb, var(--default-color), transparent 70%);
 }
@@ -916,14 +920,14 @@ section,
 
 .hero .wave1 use {
   animation: move-forever1 10s linear infinite;
-  animation-delay: -2s;
+  animation-delay: -0s;
   fill: var(--default-color);
   opacity: 0.6;
 }
 
 .hero .wave2 use {
   animation: move-forever2 8s linear infinite;
-  animation-delay: -2s;
+  animation-delay: -0s;
   fill: var(--default-color);
   opacity: 0.4;
 }
@@ -1141,6 +1145,10 @@ section,
   z-index: 1;
 }
 
+.stats h5{
+  color: #040677;
+}
+
 .stats .stats-item {
   background-color: var(--surface-color);
   margin-top: -27px;
@@ -1195,7 +1203,7 @@ section,
 }
 
 .details .features-item ul li {
-  padding-bottom: 10px;
+  padding-bottom: 1px;
   display: flex;
   align-items: center;
 }
